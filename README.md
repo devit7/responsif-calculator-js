@@ -1,6 +1,6 @@
 # Kalkulator Sederhana
 
-![Kalkulator Sederhana](https://lh3.googleusercontent.com/drive-viewer/AITFw-wdy9EiOInjStX4Li2tnQKgq8n5KAPhCfperjID0FPWHQAjmgAl2vfM47wTT6_ulHGTaCr-6sH7tvAn-goZTHypCk-M=s1600)
+![Kalkulator Sederhana](https://iili.io/J27unWX.png)
 
 Ini adalah sebuah kalkulator sederhana yang dirancang untuk melakukan operasi dasar matematika, termasuk penjumlahan, pengurangan, perkalian, pembagian, dan modulus. Kalkulator ini memiliki beberapa fitur utama:
 
